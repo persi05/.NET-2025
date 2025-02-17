@@ -11,6 +11,9 @@
 
 ---
 
+
+![alt text](image.png)
+
 ### Część 1: Struktura rozwiązania i referencje między projektami
 
 1. **Utworzenie rozwiązania:**
@@ -96,3 +99,4 @@
    - Przeprowadź symulację aktualizacji pakietu, np. zmieniając wersję `Newtonsoft.Json` lub własnego pakietu `MyLibrary`.
    - SemVer?.
 ---
+
