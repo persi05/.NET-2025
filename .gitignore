@@ -1,0 +1,59 @@
+# Visual Studio Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.wrn
+*.err
+*.appx
+*.appxupload
+*.appxsym
+
+# Rider settings
+.idea/
+*.iml
+*.sln.iml
+
+# ASP.NET specific
+appsettings.json
+appsettings.Development.json
+
+# Entity Framework
+*.edb
+
+# NuGet
+*.nupkg
+
+# JetBrains Rider specific
+.idea/
+*.sln.iml
+
+# macOS and Linux files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and debug
+*.log
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
