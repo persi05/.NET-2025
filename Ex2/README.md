@@ -8,7 +8,7 @@ Dodatkowo studenci powinni napisać testy jednostkowe przy użyciu **frameworka 
 1. **Pobieranie danych wejściowych**  
    - Aplikacja powinna umożliwiać użytkownikowi wybór źródła danych:  
      a) Wprowadzenie tekstu ręcznie w konsoli.  
-     b) Wczytanie tekstu z pliku (ścieżka do pliku podana przez użytkownika, jako parametr wiersza poleceń).  
+     b) Wczytanie tekstu z pliku (ścieżka do pliku podana przez użytkownika).  
 
 2. **Obliczanie statystyk**  
    - Aplikacja powinna obliczać następujące statystyki dla podanego tekstu:  
@@ -123,5 +123,3 @@ public class TextAnalyzerTests
 
 
 ---
-
-Czy chcesz, żebym przygotował pełną implementację aplikacji oraz testów? 😊
